@@ -36,12 +36,16 @@ XIN—Mr
 
 ### 联系
 QQ：2974278195
+
 weixin: x2974278195
+
 CSDN博客：指间流逝的夏末
 
 ### 鸣谢
 该项目参考了XXX的 XXX
+
 灵感来源于XXX
+
 感谢女友的支持和陪伴
 
 
@@ -49,6 +53,7 @@ CSDN博客：指间流逝的夏末
 #### 一、C语言
 ##### 最全面的C语言pdf
 链接：https://pan.baidu.com/s/1kCuXpMWBq5PaBH4Lsi83zg
+
 提取码：vnn0
 
 
@@ -56,13 +61,15 @@ CSDN博客：指间流逝的夏末
 #### 二、面向对象编程
 ##### 面向对象编程基础
 链接：https://pan.baidu.com/s/1NevnNIbvxCLHFhA1nCR6MQ
+
 提取码：l6x5
 
 
 
 #### 三、嵌入式
 ##### 嵌入式开发资料100G
-链接: https://pan.baidu.com/s/1EFqb2kXYje1uU63O3iOBgQ 
+链接: https://pan.baidu.com/s/1EFqb2kXYje1uU63O3iOBgQ
+
 提取码: xi95
 
 
